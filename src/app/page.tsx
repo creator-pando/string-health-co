@@ -13,11 +13,11 @@ export default function Home() {
       <section className="flex-1 flex flex-col items-center justify-center text-center py-24 px-8">
         <div className="max-w-2xl">
           <h2 className="text-4xl font-bold leading-snug mb-6 text-gray-900">
-            건강한 삶을 위한<br />든든한 파트너
+            건강하게 일하고<br />강하게 성장하는 플랫폼
           </h2>
           <p className="text-lg text-gray-500 leading-relaxed">
-            강건한건강은 고객의 건강한 일상을 지원하는 건강 전문 기업입니다.<br />
-            신뢰를 바탕으로 최적의 건강 솔루션을 제공합니다.
+            강건한건강은 전문 프리랜서와 기업을 연결하는 서비스 외주 플랫폼입니다.<br />
+            필요한 서비스를 빠르고 신뢰있게 연결합니다.
           </p>
         </div>
       </section>
@@ -26,19 +26,19 @@ export default function Home() {
       <section className="bg-gray-50 py-16 px-8">
         <div className="max-w-4xl mx-auto grid grid-cols-1 sm:grid-cols-3 gap-8 text-center">
           <div className="p-6">
-            <div className="text-3xl mb-3">🌿</div>
-            <h3 className="font-semibold text-gray-800 mb-2">건강 제품</h3>
-            <p className="text-sm text-gray-500">엄선된 건강 제품을 통해 일상 속 건강을 챙기세요.</p>
+            <div className="text-3xl mb-3">🤝</div>
+            <h3 className="font-semibold text-gray-800 mb-2">전문가 매칭</h3>
+            <p className="text-sm text-gray-500">검증된 전문 프리랜서와 프로젝트를 빠르게 연결합니다.</p>
           </div>
           <div className="p-6">
-            <div className="text-3xl mb-3">💊</div>
-            <h3 className="font-semibold text-gray-800 mb-2">전문 상담</h3>
-            <p className="text-sm text-gray-500">고객 맞춤형 건강 상담으로 최적의 방법을 안내합니다.</p>
+            <div className="text-3xl mb-3">💼</div>
+            <h3 className="font-semibold text-gray-800 mb-2">외주 서비스</h3>
+            <p className="text-sm text-gray-500">개발, 디자인, 마케팅 등 다양한 분야의 외주를 지원합니다.</p>
           </div>
           <div className="p-6">
-            <div className="text-3xl mb-3">🚚</div>
-            <h3 className="font-semibold text-gray-800 mb-2">빠른 배송</h3>
-            <p className="text-sm text-gray-500">신속하고 안전한 배송으로 제품을 전달합니다.</p>
+            <div className="text-3xl mb-3">🛡️</div>
+            <h3 className="font-semibold text-gray-800 mb-2">안전한 거래</h3>
+            <p className="text-sm text-gray-500">투명한 계약과 안전한 정산으로 신뢰 있는 거래를 보장합니다.</p>
           </div>
         </div>
       </section>
