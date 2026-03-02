@@ -49,10 +49,8 @@ export default function Home() {
           <p className="font-semibold text-gray-700 mb-3">사업자 정보</p>
           <p><span className="font-medium text-gray-600">상호</span>　강건한건강</p>
           <p><span className="font-medium text-gray-600">사업자등록번호</span>　674-37-01539</p>
-          <p><span className="font-medium text-gray-600">대표자</span>　[대표자명]</p>
-          <p><span className="font-medium text-gray-600">주소</span>　[사업장 주소]</p>
-          <p><span className="font-medium text-gray-600">고객센터</span>　[전화번호]</p>
-          <p><span className="font-medium text-gray-600">이메일</span>　[이메일 주소]</p>
+          <p><span className="font-medium text-gray-600">주소</span>　인천광역시 서구 완정로 179, 6층 601-794호(왕길동, 제이원검단메디컬프라자)</p>
+          <p><span className="font-medium text-gray-600">이메일</span>　creator.pando@gmail.com</p>
           <p><span className="font-medium text-gray-600">통신판매업신고번호</span>　[신고번호]</p>
           <p className="pt-4 text-xs text-gray-400">© 2026 강건한건강. All rights reserved.</p>
         </div>
